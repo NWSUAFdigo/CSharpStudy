@@ -41,6 +41,7 @@ namespace _05_study
         }
 
         // 静态属性无法引用非静态字段
+        // 自动属性, get/set无方法体. 程序默认添加一个隐藏字段用于接收数据
         public static string Email
         {
             get; // { return _email; }
@@ -76,7 +77,7 @@ namespace _05_study
         // 析构函数
         // 用于对象被回收前调用, 作用为释放资源
         // 在.NET中，由于GC的存在，究竟何时调用析构函数我们是不能确认的。
-        ~Person() 
+        ~Person()
         {
             Console.ReadKey();
         }
