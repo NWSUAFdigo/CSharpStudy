@@ -1,0 +1,15 @@
+E:\csharp-workspace\Csharp-demo\CSharpLangStudy\07_study\bin\Debug\net6.0\07_study.exe
+E:\csharp-workspace\Csharp-demo\CSharpLangStudy\07_study\bin\Debug\net6.0\07_study.deps.json
+E:\csharp-workspace\Csharp-demo\CSharpLangStudy\07_study\bin\Debug\net6.0\07_study.runtimeconfig.json
+E:\csharp-workspace\Csharp-demo\CSharpLangStudy\07_study\bin\Debug\net6.0\07_study.dll
+E:\csharp-workspace\Csharp-demo\CSharpLangStudy\07_study\bin\Debug\net6.0\07_study.pdb
+E:\csharp-workspace\Csharp-demo\CSharpLangStudy\07_study\obj\Debug\net6.0\07_study.csproj.AssemblyReference.cache
+E:\csharp-workspace\Csharp-demo\CSharpLangStudy\07_study\obj\Debug\net6.0\07_study.GeneratedMSBuildEditorConfig.editorconfig
+E:\csharp-workspace\Csharp-demo\CSharpLangStudy\07_study\obj\Debug\net6.0\07_study.AssemblyInfoInputs.cache
+E:\csharp-workspace\Csharp-demo\CSharpLangStudy\07_study\obj\Debug\net6.0\07_study.AssemblyInfo.cs
+E:\csharp-workspace\Csharp-demo\CSharpLangStudy\07_study\obj\Debug\net6.0\07_study.csproj.CoreCompileInputs.cache
+E:\csharp-workspace\Csharp-demo\CSharpLangStudy\07_study\obj\Debug\net6.0\07_study.dll
+E:\csharp-workspace\Csharp-demo\CSharpLangStudy\07_study\obj\Debug\net6.0\refint\07_study.dll
+E:\csharp-workspace\Csharp-demo\CSharpLangStudy\07_study\obj\Debug\net6.0\07_study.pdb
+E:\csharp-workspace\Csharp-demo\CSharpLangStudy\07_study\obj\Debug\net6.0\07_study.genruntimeconfig.cache
+E:\csharp-workspace\Csharp-demo\CSharpLangStudy\07_study\obj\Debug\net6.0\ref\07_study.dll
