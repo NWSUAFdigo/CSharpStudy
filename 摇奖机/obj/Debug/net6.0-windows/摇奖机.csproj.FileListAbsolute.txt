@@ -1,0 +1,17 @@
+E:\csharp-workspace\Csharp-demo\CSharpLangStudy\摇奖机\bin\Debug\net6.0-windows\摇奖机.exe
+E:\csharp-workspace\Csharp-demo\CSharpLangStudy\摇奖机\bin\Debug\net6.0-windows\摇奖机.deps.json
+E:\csharp-workspace\Csharp-demo\CSharpLangStudy\摇奖机\bin\Debug\net6.0-windows\摇奖机.runtimeconfig.json
+E:\csharp-workspace\Csharp-demo\CSharpLangStudy\摇奖机\bin\Debug\net6.0-windows\摇奖机.dll
+E:\csharp-workspace\Csharp-demo\CSharpLangStudy\摇奖机\bin\Debug\net6.0-windows\摇奖机.pdb
+E:\csharp-workspace\Csharp-demo\CSharpLangStudy\摇奖机\obj\Debug\net6.0-windows\摇奖机.csproj.AssemblyReference.cache
+E:\csharp-workspace\Csharp-demo\CSharpLangStudy\摇奖机\obj\Debug\net6.0-windows\摇奖机.Form1.resources
+E:\csharp-workspace\Csharp-demo\CSharpLangStudy\摇奖机\obj\Debug\net6.0-windows\摇奖机.csproj.GenerateResource.cache
+E:\csharp-workspace\Csharp-demo\CSharpLangStudy\摇奖机\obj\Debug\net6.0-windows\摇奖机.GeneratedMSBuildEditorConfig.editorconfig
+E:\csharp-workspace\Csharp-demo\CSharpLangStudy\摇奖机\obj\Debug\net6.0-windows\摇奖机.AssemblyInfoInputs.cache
+E:\csharp-workspace\Csharp-demo\CSharpLangStudy\摇奖机\obj\Debug\net6.0-windows\摇奖机.AssemblyInfo.cs
+E:\csharp-workspace\Csharp-demo\CSharpLangStudy\摇奖机\obj\Debug\net6.0-windows\摇奖机.csproj.CoreCompileInputs.cache
+E:\csharp-workspace\Csharp-demo\CSharpLangStudy\摇奖机\obj\Debug\net6.0-windows\摇奖机.dll
+E:\csharp-workspace\Csharp-demo\CSharpLangStudy\摇奖机\obj\Debug\net6.0-windows\refint\摇奖机.dll
+E:\csharp-workspace\Csharp-demo\CSharpLangStudy\摇奖机\obj\Debug\net6.0-windows\摇奖机.pdb
+E:\csharp-workspace\Csharp-demo\CSharpLangStudy\摇奖机\obj\Debug\net6.0-windows\摇奖机.genruntimeconfig.cache
+E:\csharp-workspace\Csharp-demo\CSharpLangStudy\摇奖机\obj\Debug\net6.0-windows\ref\摇奖机.dll
