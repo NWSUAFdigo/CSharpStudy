@@ -1,15 +1,117 @@
-﻿++解决方案“CSharpLangStudy”‎(7 个项目，共 7 个)
+﻿++解决方案“CSharpLangStudy”‎(10 个项目，共 10 个)
+i:{00000000-0000-0000-0000-000000000000}:CSharpLangStudy.sln
+++摇奖机
+i:{00000000-0000-0000-0000-000000000000}:摇奖机
+++依赖项
+i:{56b8cd8a-d0d0-403d-90c6-8800e0e84e35}:>936
+i:{bfda34f9-eb16-47ab-b6d9-478c677ad094}:>847
+i:{84f600b3-0a6f-4602-b2fc-09a89aab3498}:>784
+i:{05757410-d0ba-4bf7-aff4-38efa9842878}:>778
+i:{8ead26ec-acf5-4746-aa9e-860673f2d210}:>779
+i:{f8d2408c-09c4-4381-838c-9d533348589e}:>785
+i:{6ffb2419-b9db-4eab-871d-c9f652bea19f}:>781
+i:{af5e4a42-4ac0-44eb-9f76-434f959c1285}:>780
+i:{024388b0-a33b-4dc5-8aec-80c003f2194c}:>782
+i:{57012a9c-0553-4932-b22f-5c5e07fd88d9}:>783
+++Form1.cs
+i:{56b8cd8a-d0d0-403d-90c6-8800e0e84e35}:e:\csharp-workspace\csharp-demo\csharplangstudy\摇奖机\form1.cs
+i:{05757410-d0ba-4bf7-aff4-38efa9842878}:e:\csharp-workspace\csharp-demo\csharplangstudy\08_study\form1.cs
+++Form1.Designer.cs
+i:{56b8cd8a-d0d0-403d-90c6-8800e0e84e35}:e:\csharp-workspace\csharp-demo\csharplangstudy\摇奖机\form1.designer.cs
+i:{05757410-d0ba-4bf7-aff4-38efa9842878}:e:\csharp-workspace\csharp-demo\csharplangstudy\08_study\form1.designer.cs
+++Form1.resx
+i:{56b8cd8a-d0d0-403d-90c6-8800e0e84e35}:e:\csharp-workspace\csharp-demo\csharplangstudy\摇奖机\form1.resx
+i:{05757410-d0ba-4bf7-aff4-38efa9842878}:e:\csharp-workspace\csharp-demo\csharplangstudy\08_study\form1.resx
+++Program.cs
+i:{56b8cd8a-d0d0-403d-90c6-8800e0e84e35}:e:\csharp-workspace\csharp-demo\csharplangstudy\摇奖机\program.cs
+i:{bfda34f9-eb16-47ab-b6d9-478c677ad094}:e:\csharp-workspace\csharp-demo\csharplangstudy\09_study\program.cs
+i:{84f600b3-0a6f-4602-b2fc-09a89aab3498}:e:\csharp-workspace\csharp-demo\csharplangstudy\07_study\program.cs
+i:{05757410-d0ba-4bf7-aff4-38efa9842878}:e:\csharp-workspace\csharp-demo\csharplangstudy\08_study\program.cs
+i:{8ead26ec-acf5-4746-aa9e-860673f2d210}:e:\csharp-workspace\csharp-demo\csharplangstudy\02_study\program.cs
+i:{f8d2408c-09c4-4381-838c-9d533348589e}:e:\csharp-workspace\csharp-demo\csharplangstudy\03_study\program.cs
+i:{6ffb2419-b9db-4eab-871d-c9f652bea19f}:e:\csharp-workspace\csharp-demo\csharplangstudy\04_study\program.cs
+i:{af5e4a42-4ac0-44eb-9f76-434f959c1285}:e:\csharp-workspace\csharp-demo\csharplangstudy\05_study\program.cs
+i:{024388b0-a33b-4dc5-8aec-80c003f2194c}:e:\csharp-workspace\csharp-demo\csharplangstudy\06_study\program.cs
+i:{57012a9c-0553-4932-b22f-5c5e07fd88d9}:e:\csharp-workspace\csharp-demo\csharplangstudy\01-study\program.cs
+++分析器
+i:{56b8cd8a-d0d0-403d-90c6-8800e0e84e35}:分析器
+i:{bfda34f9-eb16-47ab-b6d9-478c677ad094}:分析器
+i:{84f600b3-0a6f-4602-b2fc-09a89aab3498}:分析器
+i:{05757410-d0ba-4bf7-aff4-38efa9842878}:分析器
+i:{8ead26ec-acf5-4746-aa9e-860673f2d210}:分析器
+i:{f8d2408c-09c4-4381-838c-9d533348589e}:分析器
+i:{6ffb2419-b9db-4eab-871d-c9f652bea19f}:分析器
+i:{af5e4a42-4ac0-44eb-9f76-434f959c1285}:分析器
+i:{024388b0-a33b-4dc5-8aec-80c003f2194c}:分析器
+i:{57012a9c-0553-4932-b22f-5c5e07fd88d9}:分析器
+++框架
+i:{56b8cd8a-d0d0-403d-90c6-8800e0e84e35}:框架
+i:{bfda34f9-eb16-47ab-b6d9-478c677ad094}:框架
+i:{84f600b3-0a6f-4602-b2fc-09a89aab3498}:框架
+i:{05757410-d0ba-4bf7-aff4-38efa9842878}:框架
+i:{8ead26ec-acf5-4746-aa9e-860673f2d210}:框架
+i:{f8d2408c-09c4-4381-838c-9d533348589e}:框架
+i:{6ffb2419-b9db-4eab-871d-c9f652bea19f}:框架
+i:{af5e4a42-4ac0-44eb-9f76-434f959c1285}:框架
+i:{024388b0-a33b-4dc5-8aec-80c003f2194c}:框架
+i:{57012a9c-0553-4932-b22f-5c5e07fd88d9}:框架
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{56b8cd8a-d0d0-403d-90c6-8800e0e84e35}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{bfda34f9-eb16-47ab-b6d9-478c677ad094}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{84f600b3-0a6f-4602-b2fc-09a89aab3498}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{05757410-d0ba-4bf7-aff4-38efa9842878}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{8ead26ec-acf5-4746-aa9e-860673f2d210}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{f8d2408c-09c4-4381-838c-9d533348589e}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{6ffb2419-b9db-4eab-871d-c9f652bea19f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{af5e4a42-4ac0-44eb-9f76-434f959c1285}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{024388b0-a33b-4dc5-8aec-80c003f2194c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{57012a9c-0553-4932-b22f-5c5e07fd88d9}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{56b8cd8a-d0d0-403d-90c6-8800e0e84e35}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{bfda34f9-eb16-47ab-b6d9-478c677ad094}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{84f600b3-0a6f-4602-b2fc-09a89aab3498}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{05757410-d0ba-4bf7-aff4-38efa9842878}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{8ead26ec-acf5-4746-aa9e-860673f2d210}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{f8d2408c-09c4-4381-838c-9d533348589e}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{6ffb2419-b9db-4eab-871d-c9f652bea19f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{af5e4a42-4ac0-44eb-9f76-434f959c1285}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{024388b0-a33b-4dc5-8aec-80c003f2194c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{57012a9c-0553-4932-b22f-5c5e07fd88d9}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++System.Text.Json.SourceGeneration
+i:{56b8cd8a-d0d0-403d-90c6-8800e0e84e35}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.4\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{bfda34f9-eb16-47ab-b6d9-478c677ad094}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.4\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{84f600b3-0a6f-4602-b2fc-09a89aab3498}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.4\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{05757410-d0ba-4bf7-aff4-38efa9842878}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.4\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{8ead26ec-acf5-4746-aa9e-860673f2d210}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.4\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{f8d2408c-09c4-4381-838c-9d533348589e}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.4\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{6ffb2419-b9db-4eab-871d-c9f652bea19f}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.4\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{af5e4a42-4ac0-44eb-9f76-434f959c1285}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.4\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{024388b0-a33b-4dc5-8aec-80c003f2194c}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.4\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{57012a9c-0553-4932-b22f-5c5e07fd88d9}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.4\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++System.Windows.Forms.Analyzers
+i:{56b8cd8a-d0d0-403d-90c6-8800e0e84e35}:c:\program files\dotnet\packs\microsoft.windowsdesktop.app.ref\6.0.4\analyzers\dotnet\system.windows.forms.analyzers.dll
+i:{05757410-d0ba-4bf7-aff4-38efa9842878}:c:\program files\dotnet\packs\microsoft.windowsdesktop.app.ref\6.0.4\analyzers\dotnet\system.windows.forms.analyzers.dll
+++System.Windows.Forms.Analyzers.CSharp
+i:{56b8cd8a-d0d0-403d-90c6-8800e0e84e35}:c:\program files\dotnet\packs\microsoft.windowsdesktop.app.ref\6.0.4\analyzers\dotnet\cs\system.windows.forms.analyzers.csharp.dll
+i:{05757410-d0ba-4bf7-aff4-38efa9842878}:c:\program files\dotnet\packs\microsoft.windowsdesktop.app.ref\6.0.4\analyzers\dotnet\cs\system.windows.forms.analyzers.csharp.dll
+++Microsoft.NETCore.App
+i:{56b8cd8a-d0d0-403d-90c6-8800e0e84e35}:e:\csharp-workspace\csharp-demo\csharplangstudy\摇奖机\microsoft.netcore.app
+i:{bfda34f9-eb16-47ab-b6d9-478c677ad094}:e:\csharp-workspace\csharp-demo\csharplangstudy\09_study\microsoft.netcore.app
+i:{84f600b3-0a6f-4602-b2fc-09a89aab3498}:e:\csharp-workspace\csharp-demo\csharplangstudy\07_study\microsoft.netcore.app
+i:{05757410-d0ba-4bf7-aff4-38efa9842878}:e:\csharp-workspace\csharp-demo\csharplangstudy\08_study\microsoft.netcore.app
+i:{8ead26ec-acf5-4746-aa9e-860673f2d210}:e:\csharp-workspace\csharp-demo\csharplangstudy\02_study\microsoft.netcore.app
+i:{f8d2408c-09c4-4381-838c-9d533348589e}:e:\csharp-workspace\csharp-demo\csharplangstudy\03_study\microsoft.netcore.app
+i:{6ffb2419-b9db-4eab-871d-c9f652bea19f}:e:\csharp-workspace\csharp-demo\csharplangstudy\04_study\microsoft.netcore.app
+i:{af5e4a42-4ac0-44eb-9f76-434f959c1285}:e:\csharp-workspace\csharp-demo\csharplangstudy\05_study\microsoft.netcore.app
+i:{024388b0-a33b-4dc5-8aec-80c003f2194c}:e:\csharp-workspace\csharp-demo\csharplangstudy\06_study\microsoft.netcore.app
+i:{57012a9c-0553-4932-b22f-5c5e07fd88d9}:e:\csharp-workspace\csharp-demo\csharplangstudy\01-study\microsoft.netcore.app
+++Microsoft.WindowsDesktop.App.WindowsForms
+i:{56b8cd8a-d0d0-403d-90c6-8800e0e84e35}:e:\csharp-workspace\csharp-demo\csharplangstudy\摇奖机\microsoft.windowsdesktop.app.windowsforms
+i:{05757410-d0ba-4bf7-aff4-38efa9842878}:e:\csharp-workspace\csharp-demo\csharplangstudy\08_study\microsoft.windowsdesktop.app.windowsforms
+++09_study
+i:{00000000-0000-0000-0000-000000000000}:09_study
 ++07_study
 i:{00000000-0000-0000-0000-000000000000}:07_study
-++依赖项
-i:{84f600b3-0a6f-4602-b2fc-09a89aab3498}:>688
-i:{8ead26ec-acf5-4746-aa9e-860673f2d210}:>684
-i:{f8d2408c-09c4-4381-838c-9d533348589e}:>687
-i:{6ffb2419-b9db-4eab-871d-c9f652bea19f}:>682
-i:{af5e4a42-4ac0-44eb-9f76-434f959c1285}:>685
-i:{024388b0-a33b-4dc5-8aec-80c003f2194c}:>686
-i:{57012a9c-0553-4932-b22f-5c5e07fd88d9}:>683
-i:{05757410-d0ba-4bf7-aff4-38efa9842878}:>751
 ++AbstractModel.cs
 i:{84f600b3-0a6f-4602-b2fc-09a89aab3498}:e:\csharp-workspace\csharp-demo\csharplangstudy\07_study\abstractmodel.cs
 ++InterfaceModel.cs
@@ -22,15 +124,6 @@ i:{84f600b3-0a6f-4602-b2fc-09a89aab3498}:e:\csharp-workspace\csharp-demo\csharpl
 i:{84f600b3-0a6f-4602-b2fc-09a89aab3498}:e:\csharp-workspace\csharp-demo\csharplangstudy\07_study\person.cs
 i:{af5e4a42-4ac0-44eb-9f76-434f959c1285}:e:\csharp-workspace\csharp-demo\csharplangstudy\05_study\person.cs
 i:{024388b0-a33b-4dc5-8aec-80c003f2194c}:e:\csharp-workspace\csharp-demo\csharplangstudy\06_study\person.cs
-++Program.cs
-i:{84f600b3-0a6f-4602-b2fc-09a89aab3498}:e:\csharp-workspace\csharp-demo\csharplangstudy\07_study\program.cs
-i:{8ead26ec-acf5-4746-aa9e-860673f2d210}:e:\csharp-workspace\csharp-demo\csharplangstudy\02_study\program.cs
-i:{f8d2408c-09c4-4381-838c-9d533348589e}:e:\csharp-workspace\csharp-demo\csharplangstudy\03_study\program.cs
-i:{6ffb2419-b9db-4eab-871d-c9f652bea19f}:e:\csharp-workspace\csharp-demo\csharplangstudy\04_study\program.cs
-i:{af5e4a42-4ac0-44eb-9f76-434f959c1285}:e:\csharp-workspace\csharp-demo\csharplangstudy\05_study\program.cs
-i:{024388b0-a33b-4dc5-8aec-80c003f2194c}:e:\csharp-workspace\csharp-demo\csharplangstudy\06_study\program.cs
-i:{57012a9c-0553-4932-b22f-5c5e07fd88d9}:e:\csharp-workspace\csharp-demo\csharplangstudy\01-study\program.cs
-i:{05757410-d0ba-4bf7-aff4-38efa9842878}:e:\csharp-workspace\csharp-demo\csharplangstudy\08_study\program.cs
 ++SealedModel.cs
 i:{84f600b3-0a6f-4602-b2fc-09a89aab3498}:e:\csharp-workspace\csharp-demo\csharplangstudy\07_study\sealedmodel.cs
 ++SerializeModel.cs
@@ -39,60 +132,8 @@ i:{84f600b3-0a6f-4602-b2fc-09a89aab3498}:e:\csharp-workspace\csharp-demo\csharpl
 i:{84f600b3-0a6f-4602-b2fc-09a89aab3498}:e:\csharp-workspace\csharp-demo\csharplangstudy\07_study\student.cs
 i:{af5e4a42-4ac0-44eb-9f76-434f959c1285}:e:\csharp-workspace\csharp-demo\csharplangstudy\05_study\student.cs
 i:{024388b0-a33b-4dc5-8aec-80c003f2194c}:e:\csharp-workspace\csharp-demo\csharplangstudy\06_study\student.cs
-++分析器
-i:{84f600b3-0a6f-4602-b2fc-09a89aab3498}:分析器
-i:{8ead26ec-acf5-4746-aa9e-860673f2d210}:分析器
-i:{f8d2408c-09c4-4381-838c-9d533348589e}:分析器
-i:{6ffb2419-b9db-4eab-871d-c9f652bea19f}:分析器
-i:{af5e4a42-4ac0-44eb-9f76-434f959c1285}:分析器
-i:{024388b0-a33b-4dc5-8aec-80c003f2194c}:分析器
-i:{57012a9c-0553-4932-b22f-5c5e07fd88d9}:分析器
-i:{05757410-d0ba-4bf7-aff4-38efa9842878}:分析器
-++框架
-i:{84f600b3-0a6f-4602-b2fc-09a89aab3498}:框架
-i:{8ead26ec-acf5-4746-aa9e-860673f2d210}:框架
-i:{f8d2408c-09c4-4381-838c-9d533348589e}:框架
-i:{6ffb2419-b9db-4eab-871d-c9f652bea19f}:框架
-i:{af5e4a42-4ac0-44eb-9f76-434f959c1285}:框架
-i:{024388b0-a33b-4dc5-8aec-80c003f2194c}:框架
-i:{57012a9c-0553-4932-b22f-5c5e07fd88d9}:框架
-i:{05757410-d0ba-4bf7-aff4-38efa9842878}:框架
-++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
-i:{84f600b3-0a6f-4602-b2fc-09a89aab3498}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
-i:{8ead26ec-acf5-4746-aa9e-860673f2d210}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
-i:{f8d2408c-09c4-4381-838c-9d533348589e}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
-i:{6ffb2419-b9db-4eab-871d-c9f652bea19f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
-i:{af5e4a42-4ac0-44eb-9f76-434f959c1285}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
-i:{024388b0-a33b-4dc5-8aec-80c003f2194c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
-i:{57012a9c-0553-4932-b22f-5c5e07fd88d9}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
-i:{05757410-d0ba-4bf7-aff4-38efa9842878}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
-++Microsoft.CodeAnalysis.NetAnalyzers
-i:{84f600b3-0a6f-4602-b2fc-09a89aab3498}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
-i:{8ead26ec-acf5-4746-aa9e-860673f2d210}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
-i:{f8d2408c-09c4-4381-838c-9d533348589e}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
-i:{6ffb2419-b9db-4eab-871d-c9f652bea19f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
-i:{af5e4a42-4ac0-44eb-9f76-434f959c1285}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
-i:{024388b0-a33b-4dc5-8aec-80c003f2194c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
-i:{57012a9c-0553-4932-b22f-5c5e07fd88d9}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
-i:{05757410-d0ba-4bf7-aff4-38efa9842878}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
-++System.Text.Json.SourceGeneration
-i:{84f600b3-0a6f-4602-b2fc-09a89aab3498}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.4\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
-i:{8ead26ec-acf5-4746-aa9e-860673f2d210}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.4\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
-i:{f8d2408c-09c4-4381-838c-9d533348589e}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.4\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
-i:{6ffb2419-b9db-4eab-871d-c9f652bea19f}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.4\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
-i:{af5e4a42-4ac0-44eb-9f76-434f959c1285}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.4\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
-i:{024388b0-a33b-4dc5-8aec-80c003f2194c}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.4\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
-i:{57012a9c-0553-4932-b22f-5c5e07fd88d9}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.4\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
-i:{05757410-d0ba-4bf7-aff4-38efa9842878}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.4\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
-++Microsoft.NETCore.App
-i:{84f600b3-0a6f-4602-b2fc-09a89aab3498}:e:\csharp-workspace\csharp-demo\csharplangstudy\07_study\microsoft.netcore.app
-i:{8ead26ec-acf5-4746-aa9e-860673f2d210}:e:\csharp-workspace\csharp-demo\csharplangstudy\02_study\microsoft.netcore.app
-i:{f8d2408c-09c4-4381-838c-9d533348589e}:e:\csharp-workspace\csharp-demo\csharplangstudy\03_study\microsoft.netcore.app
-i:{6ffb2419-b9db-4eab-871d-c9f652bea19f}:e:\csharp-workspace\csharp-demo\csharplangstudy\04_study\microsoft.netcore.app
-i:{af5e4a42-4ac0-44eb-9f76-434f959c1285}:e:\csharp-workspace\csharp-demo\csharplangstudy\05_study\microsoft.netcore.app
-i:{024388b0-a33b-4dc5-8aec-80c003f2194c}:e:\csharp-workspace\csharp-demo\csharplangstudy\06_study\microsoft.netcore.app
-i:{57012a9c-0553-4932-b22f-5c5e07fd88d9}:e:\csharp-workspace\csharp-demo\csharplangstudy\01-study\microsoft.netcore.app
-i:{05757410-d0ba-4bf7-aff4-38efa9842878}:e:\csharp-workspace\csharp-demo\csharplangstudy\08_study\microsoft.netcore.app
+++08_study
+i:{00000000-0000-0000-0000-000000000000}:08_study
 ++02_study
 i:{00000000-0000-0000-0000-000000000000}:02_study
 ++03_study
@@ -379,21 +420,3 @@ i:{57012a9c-0553-4932-b22f-5c5e07fd88d9}:c:\program files\microsoft visual studi
 i:{57012a9c-0553-4932-b22f-5c5e07fd88d9}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.nuget.importafter.targets
 ++Microsoft.Web.ImportAfter.targets
 i:{57012a9c-0553-4932-b22f-5c5e07fd88d9}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.web.importafter.targets
-++解决方案“CSharpLangStudy”‎(8 个项目，共 8 个)
-i:{00000000-0000-0000-0000-000000000000}:CSharpLangStudy.sln
-++08_study
-i:{00000000-0000-0000-0000-000000000000}:08_study
-++Form1.cs
-i:{05757410-d0ba-4bf7-aff4-38efa9842878}:e:\csharp-workspace\csharp-demo\csharplangstudy\08_study\form1.cs
-++Form1.Designer.cs
-i:{05757410-d0ba-4bf7-aff4-38efa9842878}:e:\csharp-workspace\csharp-demo\csharplangstudy\08_study\form1.designer.cs
-++C:\Program Files\dotnet\sdk\6.0.202\Sdks\Microsoft.NET.Sdk\targets\..\analyzers\Microsoft.CodeAnalysis.CSharp.NetAnalyzers.dll
-++C:\Program Files\dotnet\sdk\6.0.202\Sdks\Microsoft.NET.Sdk\targets\..\analyzers\Microsoft.CodeAnalysis.NetAnalyzers.dll
-++Microsoft.WindowsDesktop.App.WindowsForms
-i:{05757410-d0ba-4bf7-aff4-38efa9842878}:e:\csharp-workspace\csharp-demo\csharplangstudy\08_study\microsoft.windowsdesktop.app.windowsforms
-++System.Windows.Forms.Analyzers
-i:{05757410-d0ba-4bf7-aff4-38efa9842878}:c:\program files\dotnet\packs\microsoft.windowsdesktop.app.ref\6.0.4\analyzers\dotnet\system.windows.forms.analyzers.dll
-++System.Windows.Forms.Analyzers.CSharp
-i:{05757410-d0ba-4bf7-aff4-38efa9842878}:c:\program files\dotnet\packs\microsoft.windowsdesktop.app.ref\6.0.4\analyzers\dotnet\cs\system.windows.forms.analyzers.csharp.dll
-++Form1.resx
-i:{05757410-d0ba-4bf7-aff4-38efa9842878}:e:\csharp-workspace\csharp-demo\csharplangstudy\08_study\form1.resx
