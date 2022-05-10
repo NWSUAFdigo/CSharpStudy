@@ -1,70 +1,44 @@
 {
   "version": 3,
   "targets": {
-    "net6.0-windows7.0": {}
+    ".NETFramework,Version=v6.0,Profile=windows": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net6.0-windows7.0": []
+    ".NETFramework,Version=v6.0,Profile=windows": []
   },
   "packageFolders": {
-    "C:\\Users\\Administrator\\.nuget\\packages\\": {}
+    "C:\\Users\\H477040\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\csharp-workspace\\Csharp-demo\\CSharpLangStudy\\摇奖机\\摇奖机.csproj",
+      "projectUniqueName": "D:\\csharp-workspace\\CSharpStudy\\摇奖机\\摇奖机.csproj",
       "projectName": "摇奖机",
-      "projectPath": "E:\\csharp-workspace\\Csharp-demo\\CSharpLangStudy\\摇奖机\\摇奖机.csproj",
-      "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "E:\\csharp-workspace\\Csharp-demo\\CSharpLangStudy\\摇奖机\\obj\\",
+      "projectPath": "D:\\csharp-workspace\\CSharpStudy\\摇奖机\\摇奖机.csproj",
+      "packagesPath": "C:\\Users\\H477040\\.nuget\\packages\\",
+      "outputPath": "D:\\csharp-workspace\\CSharpStudy\\摇奖机\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\H477040\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net6.0-windows7.0"
+        "net60-windows"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "D:\\RTU\\workspace\\lib\\Packages": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net6.0-windows7.0": {
-          "targetAlias": "net6.0-windows",
+        "net60-windows": {
           "projectReferences": {}
         }
-      },
-      "warningProperties": {
-        "warnAsError": [
-          "NU1605"
-        ]
       }
     },
     "frameworks": {
-      "net6.0-windows7.0": {
-        "targetAlias": "net6.0-windows",
-        "imports": [
-          "net461",
-          "net462",
-          "net47",
-          "net471",
-          "net472",
-          "net48"
-        ],
-        "assetTargetFallback": true,
-        "warn": true,
-        "frameworkReferences": {
-          "Microsoft.NETCore.App": {
-            "privateAssets": "all"
-          },
-          "Microsoft.WindowsDesktop.App.WindowsForms": {
-            "privateAssets": "none"
-          }
-        },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
-      }
+      "net60-windows": {}
     }
   }
 }

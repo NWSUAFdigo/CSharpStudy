@@ -1,0 +1,7 @@
+D:\csharp-workspace\CSharpStudy\10_study\bin\Debug\10_study.exe.config
+D:\csharp-workspace\CSharpStudy\10_study\bin\Debug\10_study.exe
+D:\csharp-workspace\CSharpStudy\10_study\bin\Debug\10_study.pdb
+D:\csharp-workspace\CSharpStudy\10_study\obj\Debug\10_study.csprojAssemblyReference.cache
+D:\csharp-workspace\CSharpStudy\10_study\obj\Debug\10_study.csproj.CoreCompileInputs.cache
+D:\csharp-workspace\CSharpStudy\10_study\obj\Debug\10_study.exe
+D:\csharp-workspace\CSharpStudy\10_study\obj\Debug\10_study.pdb

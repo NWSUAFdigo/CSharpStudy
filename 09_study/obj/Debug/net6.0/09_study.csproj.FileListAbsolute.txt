@@ -13,3 +13,6 @@ E:\csharp-workspace\Csharp-demo\CSharpLangStudy\09_study\obj\Debug\net6.0\refint
 E:\csharp-workspace\Csharp-demo\CSharpLangStudy\09_study\obj\Debug\net6.0\09_study.pdb
 E:\csharp-workspace\Csharp-demo\CSharpLangStudy\09_study\obj\Debug\net6.0\09_study.genruntimeconfig.cache
 E:\csharp-workspace\Csharp-demo\CSharpLangStudy\09_study\obj\Debug\net6.0\ref\09_study.dll
+D:\csharp-workspace\CSharpStudy\09_study\bin\Debug\net6.0\09_study.runtimeconfig.json
+D:\csharp-workspace\CSharpStudy\09_study\bin\Debug\net6.0\09_study.runtimeconfig.dev.json
+D:\csharp-workspace\CSharpStudy\09_study\obj\Debug\net6.0\09_study.pdb
